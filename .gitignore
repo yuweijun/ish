@@ -1,6 +1,7 @@
 build/
 xcuserdata/
 .floo
+.DS_Store
 
 cross-*.txt
 alpine

@@ -1,4 +1,6 @@
 #!/bin/bash -x
+
+export PATH=$PATH:$HOME/.virtualenv/python3/bin
 mkdir -p $MESON_BUILD_DIR
 cd $MESON_BUILD_DIR
 
